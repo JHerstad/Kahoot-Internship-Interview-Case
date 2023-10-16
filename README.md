@@ -6,6 +6,8 @@ This repository contains a data analysis project as part of the interview proces
 ## Objective
 Identify where Kahoot! should concentrate its marketing and sales endeavors to maximize its reach and impact among top universities globally.
 
+## [Link to the notebook containing the analysis](https://github.com/JHerstad/Kahoot-Internship-Interview-Case/blob/main/Kahoot_data_analysis_case.ipynb)
+
 ## Datasets Used
 1. CWUR Data
 2. Shanghai Data
@@ -22,7 +24,8 @@ Identify where Kahoot! should concentrate its marketing and sales endeavors to m
 3. **Filtering and Analysis**: Filtered the data based on the criteria and performed exploratory data analysis.
 4. **Recommendations**: Identified top universities and regions to target.
 
-## Setup and Usage
+
+## Setup and Usage (If you want to run it yourself)
 1. **Clone the Repository**
 2. **Navigate to the repository**
 3. **Use a standard python data analysis environment or install the libraries from the requirements.txt file **
