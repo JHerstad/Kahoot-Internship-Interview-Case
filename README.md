@@ -28,7 +28,7 @@ Identify where Kahoot! should concentrate its marketing and sales endeavors to m
 ## Setup and Usage (If you want to run it yourself)
 1. **Clone the Repository**
 2. **Navigate to the repository**
-3. **Use a standard python data analysis environment or install the libraries from the requirements.txt file **
+3. **Use a standard python data analysis environment or install the libraries from the requirements.txt file**
 4. **Open and run the Jupyter Notebook file**
 
 
